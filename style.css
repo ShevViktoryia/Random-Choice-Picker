@@ -43,7 +43,7 @@ h1 {
   padding: 10px;
   resize: none;
   border-radius: 10px;
-  background-color: #252527;
+  background-color: #363639;
   border: none;
   outline: none;
   color: #eeeeee;
@@ -64,4 +64,9 @@ h1 {
 .container__btn:hover {
   transform: scale(1.2);
   cursor: pointer;
+}
+
+.container__result {
+  align-self: center;
+  margin-top: 30px;
 }
