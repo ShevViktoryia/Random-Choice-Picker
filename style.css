@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Glory:ital,wght@0,100..800;1,100..800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Glory", sans-serif;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: "Cardo", sans-serif;
+}
